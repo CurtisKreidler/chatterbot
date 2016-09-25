@@ -16,4 +16,4 @@ group :development do
 end
 
 gem "pry"
-
+gem "chronic", ">=0.6.3"
